@@ -31,7 +31,7 @@ rag-pdf-assistant/
 
 ## ⚙️ Setup Instructions
 
-1. **Clone this repository**:
+**Clone this repository**:
    git clone https://github.com/your-username/rag-pdf-assistant.git
    cd rag-pdf-assistant
 ## ✅ Requirements
@@ -41,11 +41,11 @@ rag-pdf-assistant/
 - [Flotorch Gateway API key](https://flotorch.ai/)  
 - Your Flotorch Gateway `BASE_URL`  
 
-2. ## Install the required Python libraries:
+## Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 ```
-3. ## Add your API keys in a .env file in the root folder:
+## Add your API keys in a .env file in the root folder:
    ```
    OPENAI_API_KEY=your-openai-key
    API_KEY=your-flotorch-api-key
@@ -53,10 +53,10 @@ pip install -r requirements.txt
 
    ```
 
-4. ## Add your document:
+## Add your document:
 - Place the .pdf or .txt file in the app/docs/ directory.
 
-5. ## Run the assistant:
+## Run the assistant:
    ```
    python main.py
 
