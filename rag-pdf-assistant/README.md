@@ -50,7 +50,6 @@ pip install -r requirements.txt
    OPENAI_API_KEY=your-openai-key
    API_KEY=your-flotorch-api-key
    BASE_URL=https://your-flotorch-url.com
-
    ```
 
 ## Add your document:
@@ -59,7 +58,6 @@ pip install -r requirements.txt
 ## Run the assistant:
    ```
    python main.py
-
    ```
 
 
