@@ -1,0 +1,5 @@
+octotools
+openai
+flotorch-core
+streamlit
+python-dotenv
