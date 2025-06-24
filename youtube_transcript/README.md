@@ -62,3 +62,5 @@ To run this project, create a `.env` file in the root directory with the followi
 ```bash
 streamlit run app.py
 ```
+
+![DASHBOARD_Screenshot] (https://github.com/hari3485/sample_projects/blob/main/youtube_transcript/Dashboard_screenshot_2.png?raw=true)
