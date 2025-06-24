@@ -19,13 +19,12 @@ This project allows users to input a **YouTube video URL**, extract its **transc
 
 ## 🗂️ Project Structure
 
-    ├── app.py # Streamlit frontend for user input & interaction
-    ├── utils.py # Helper functions: transcript extraction, S3 upload
-    ├── llm.py # Handles LLM query and response retrieval
-    ├── requirements.txt # Python dependencies
-    └── README.md # Project documentation
-
-
+        ├── .env_sample           # Example of environment variables to be set (e.g., API keys, AWS credentials)
+        ├── app.py                # Streamlit frontend for user input & interaction
+        ├── llm_query_engine.py   # Handles LLM query and response retrieval
+        ├── README.md             # Project documentation
+        ├── requirements.txt      # Python dependencies
+        └── transcript_utils.py   # Helper functions: transcript extraction, S3 upload
 ---
 
 ## ⚙️ Requirements
