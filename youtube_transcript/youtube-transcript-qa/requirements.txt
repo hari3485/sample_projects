@@ -1,6 +1,0 @@
-streamlit
-boto3
-openai
-python-dotenv
-youtube-transcript-api
-flotorch_core
