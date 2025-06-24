@@ -63,6 +63,6 @@ To run this project, create a `.env` file in the root directory with the followi
 streamlit run app.py
 ```
 
-![Dashboard Screenshot](https://github.com/hari3485/sample_projects/blob/main/youtube_transcript/Dashboard_screenshot_2.png?raw=true "Click to view full image")
+![Dashboard Screenshot_2](https://github.com/hari3485/sample_projects/blob/main/youtube_transcript/Dashboard_screenshot_2.png?raw=true)
 
-
+![Dashboard Screenshot 1](https://github.com/hari3485/sample_projects/blob/main/youtube_transcript/Dashboard_screenshot_1.png?raw=true)
